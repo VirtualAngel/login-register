@@ -15,6 +15,9 @@ export default createStore({
     }
   },
   actions: {
+    async login ({ commit }, details) {
+      //
+    }
   },
   modules: {
   }
