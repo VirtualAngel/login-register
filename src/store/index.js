@@ -20,6 +20,9 @@ export default createStore({
     },
     async logout ({ commit }) {
       //
+    },
+    async register ({ commit }, details) {
+      //
     }
   },
   modules: {
