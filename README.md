@@ -1,4 +1,5 @@
 # login-register
+Tutorial by Tyler Potts on YouTube
 
 ## Project setup
 ```
